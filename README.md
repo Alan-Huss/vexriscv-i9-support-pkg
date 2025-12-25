@@ -69,11 +69,11 @@ O SoC é composto por:
 
 Os seguintes conectores da placa **Colorlight i9** são utilizados:
 
-- **CN2**
+- **J2**
   - Barramento I2C
   - Conexão dos sensores BH1750, MAX3010x e TCS34725
 
-- **J2**
+- **CN2**
   - Interface SPI
   - Conexão do display LCD ST7789
   - Sinais: MOSI, SCLK, CS, DC e RESET
